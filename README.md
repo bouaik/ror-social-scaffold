@@ -1,4 +1,4 @@
-# Scaffold for social media app with Ruby on Rails
+# ror-social-scaffold
 
 > This repo includes intial code for social media app with basic styling. Its purpose is to be a starting point for Microverse students.
 
@@ -7,10 +7,8 @@
 - Ruby v2.7.0
 - Ruby on Rails v5.2.4
 
-## Live Demo
-
-TBA
-
+## live demo
+Click [here](https://damp-sea-10941.herokuapp.com/)
 
 ## Getting Started
 
@@ -55,15 +53,12 @@ Open `http://localhost:3000/` in your browser.
     rpsec --format documentation
 ```
 
-> Tests will be added by Microverse students. There are no tests for initial features in order to make sure that students write all tests from scratch.
-
-### Deployment
-
-TBA
-
 ## Authors
 
-TBA
+👤 **Lhoussaine Bouaik**
+- Github: [@bouaik](https://github.com/bouaik)
+- Twitter: [@bouaik](https://twitter.com/LhoussaineBoua1 )
+- Linkedin: [bouaik](https://www.linkedin.com/in/lhoussaine-bouaik-06858419a/)
 
 ## 🤝 Contributing
 
